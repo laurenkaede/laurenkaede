@@ -1,4 +1,4 @@
-### Hi, I'm Lauren!
+# Hi, I'm Lauren!
 
 - 👩🏻‍💻 Laravel/Vue Developer
 - 🇬🇧 Manchester, UK
