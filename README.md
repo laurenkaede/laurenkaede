@@ -1,9 +1,9 @@
 ### Hi, I'm Lauren!
 
-- Laravel/Vue Developer
-- Manchester, UK
-- Books read in the past year: 71
-- Currently learning: Golang
+- 👩🏻‍💻 Laravel/Vue Developer
+- 🇬🇧 Manchester, UK
+- ✨ Currently learning: Golang
+- 📚 Books read in the past year: 71
 
 ---
 
