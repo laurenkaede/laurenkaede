@@ -3,7 +3,7 @@
 - 👩🏻‍💻 Laravel/Vue Developer
 - 🇬🇧 Manchester, UK
 - ✨ Currently learning: Golang
-- 📚 Books read in the past year: 88
+- 📚 Books read in the past year: 91
 
 ---
 
