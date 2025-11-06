@@ -8,7 +8,7 @@
 #### Technologies:
 
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,vue,html,css,sass,tailwind,bootstrap,mysql,postgres,golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,vue,html,css,sass,tailwind,bootstrap,mysql,postgres)](https://skillicons.dev)
 
 
 #### Tools:
